@@ -1,0 +1,7 @@
+name: MegaBingo
+version: '${project.version}'
+main: com.elmer.megabingo.MegaBingo
+api-version: 1.19
+commands:
+  bingo:
+    description: Opens your current bingo cards, add start or stop to start or stop bingo. Configure settings with settings
