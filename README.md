@@ -1,0 +1,3 @@
+# megabingo
+A customizable easy-to-use bingo plugin for every server.
+More info: ...
